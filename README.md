@@ -35,5 +35,5 @@
 [lauguage]: https://img.shields.io/badge/Python-3.8.6-3776AB?logo=python    
 [实现效果]: examples/实现效果.gif    
 [stars]: https://img.shields.io/github/stars/lihaoze123/exam-countdown?logo=github&color=red     
-[author]: https://img.shields.io/badge/Author-lihaoze123-brightgreen?logo=github
+[author]: https://img.shields.io/badge/Author-lihaoze-brightgreen?logo=github
 [license]: https://img.shields.io/github/license/lihaoze123/exam-countdown?logo=
